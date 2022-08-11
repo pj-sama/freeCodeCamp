@@ -68,11 +68,11 @@ I hadn't actually done anything like this, so as and when I get time I will comp
 
 ### Responsive Web Design Certification
 
-- [Survey Form]()
-- [Tribute Page]()
-- [Technical Documentation Page]()
-- [Product Landing Page]()
-- [Personal Portfolio Webpage]()
+- [Survey Form](https://github.com/pj-sama/freeCodeCamp-Survey-Form)
+- [Tribute Page](https://github.com/pj-sama/freeCodeCamp-Tribute-Page)
+- [Technical Documentation Page](https://github.com/pj-sama/freeCodeCamp-Technical-Documentation)
+- [Product Landing Page](https://github.com/pj-sama/freeCodeCamp-Product-Landing-Page)
+- [Personal Portfolio Webpage](https://github.com/pj-sama/freeCodeCamp-Personal-Portfolio)
 
 ### JavaScript Algorithms and Data Structures Certification
 
